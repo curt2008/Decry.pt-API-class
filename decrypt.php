@@ -3,8 +3,8 @@
 	class DeCrypt {
 		
 		const APIURL = "https://api.decry.pt/";
-		const USERNAME = "1047";
-		const PASSWORD = "eK31l4yEI9";
+		const USERNAME = "0000";
+		const PASSWORD = "pass1234";
 		
 		public static $CURL_OPTIONS = array(
     			CURLOPT_CONNECTTIMEOUT => 5,
