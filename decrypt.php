@@ -78,7 +78,7 @@
     			);
     			switch($result->code) {
     				case "ok":
-    					//file ID for future download
+    					//all uploads inside array
     					return $result->info;
     				break;
     				case "login-failed":
